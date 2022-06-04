@@ -176,6 +176,7 @@ paths:
       tags:
       - Jobs
       summary: Delete job
+      description: Delete a job
       responses:
         '204':
           description: No Content
